@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Hitesh-Nagothu/React_FoodOrder.git/static/css/main.8d5790f0.chunk.css",
-    "main.js": "/Hitesh-Nagothu/React_FoodOrder.git/static/js/main.ba8d7454.chunk.js",
-    "main.js.map": "/Hitesh-Nagothu/React_FoodOrder.git/static/js/main.ba8d7454.chunk.js.map",
-    "runtime-main.js": "/Hitesh-Nagothu/React_FoodOrder.git/static/js/runtime-main.e90c3e66.js",
-    "runtime-main.js.map": "/Hitesh-Nagothu/React_FoodOrder.git/static/js/runtime-main.e90c3e66.js.map",
-    "static/js/2.d5c543be.chunk.js": "/Hitesh-Nagothu/React_FoodOrder.git/static/js/2.d5c543be.chunk.js",
-    "static/js/2.d5c543be.chunk.js.map": "/Hitesh-Nagothu/React_FoodOrder.git/static/js/2.d5c543be.chunk.js.map",
-    "index.html": "/Hitesh-Nagothu/React_FoodOrder.git/index.html",
-    "static/css/main.8d5790f0.chunk.css.map": "/Hitesh-Nagothu/React_FoodOrder.git/static/css/main.8d5790f0.chunk.css.map",
-    "static/js/2.d5c543be.chunk.js.LICENSE.txt": "/Hitesh-Nagothu/React_FoodOrder.git/static/js/2.d5c543be.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/Hitesh-Nagothu/React_FoodOrder.git/static/media/meals.2971f633.jpg"
+    "main.css": "/Hitesh-Nagothu/react_food_order/static/css/main.ae3ec814.chunk.css",
+    "main.js": "/Hitesh-Nagothu/react_food_order/static/js/main.ba8d7454.chunk.js",
+    "main.js.map": "/Hitesh-Nagothu/react_food_order/static/js/main.ba8d7454.chunk.js.map",
+    "runtime-main.js": "/Hitesh-Nagothu/react_food_order/static/js/runtime-main.0dc11324.js",
+    "runtime-main.js.map": "/Hitesh-Nagothu/react_food_order/static/js/runtime-main.0dc11324.js.map",
+    "static/js/2.d5c543be.chunk.js": "/Hitesh-Nagothu/react_food_order/static/js/2.d5c543be.chunk.js",
+    "static/js/2.d5c543be.chunk.js.map": "/Hitesh-Nagothu/react_food_order/static/js/2.d5c543be.chunk.js.map",
+    "index.html": "/Hitesh-Nagothu/react_food_order/index.html",
+    "static/css/main.ae3ec814.chunk.css.map": "/Hitesh-Nagothu/react_food_order/static/css/main.ae3ec814.chunk.css.map",
+    "static/js/2.d5c543be.chunk.js.LICENSE.txt": "/Hitesh-Nagothu/react_food_order/static/js/2.d5c543be.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/Hitesh-Nagothu/react_food_order/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e90c3e66.js",
+    "static/js/runtime-main.0dc11324.js",
     "static/js/2.d5c543be.chunk.js",
-    "static/css/main.8d5790f0.chunk.css",
+    "static/css/main.ae3ec814.chunk.css",
     "static/js/main.ba8d7454.chunk.js"
   ]
 }
