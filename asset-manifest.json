@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Hitesh-Nagothu/react_food_order/static/css/main.5828d95d.chunk.css",
-    "main.js": "/Hitesh-Nagothu/react_food_order/static/js/main.66ca1050.chunk.js",
-    "main.js.map": "/Hitesh-Nagothu/react_food_order/static/js/main.66ca1050.chunk.js.map",
-    "runtime-main.js": "/Hitesh-Nagothu/react_food_order/static/js/runtime-main.0dc11324.js",
-    "runtime-main.js.map": "/Hitesh-Nagothu/react_food_order/static/js/runtime-main.0dc11324.js.map",
-    "static/js/2.b3134683.chunk.js": "/Hitesh-Nagothu/react_food_order/static/js/2.b3134683.chunk.js",
-    "static/js/2.b3134683.chunk.js.map": "/Hitesh-Nagothu/react_food_order/static/js/2.b3134683.chunk.js.map",
-    "index.html": "/Hitesh-Nagothu/react_food_order/index.html",
-    "static/css/main.5828d95d.chunk.css.map": "/Hitesh-Nagothu/react_food_order/static/css/main.5828d95d.chunk.css.map",
-    "static/js/2.b3134683.chunk.js.LICENSE.txt": "/Hitesh-Nagothu/react_food_order/static/js/2.b3134683.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/Hitesh-Nagothu/react_food_order/static/media/meals.2971f633.jpg"
+    "main.css": "/react_food_order/static/css/main.5828d95d.chunk.css",
+    "main.js": "/react_food_order/static/js/main.66ca1050.chunk.js",
+    "main.js.map": "/react_food_order/static/js/main.66ca1050.chunk.js.map",
+    "runtime-main.js": "/react_food_order/static/js/runtime-main.5328e8f2.js",
+    "runtime-main.js.map": "/react_food_order/static/js/runtime-main.5328e8f2.js.map",
+    "static/js/2.b3134683.chunk.js": "/react_food_order/static/js/2.b3134683.chunk.js",
+    "static/js/2.b3134683.chunk.js.map": "/react_food_order/static/js/2.b3134683.chunk.js.map",
+    "index.html": "/react_food_order/index.html",
+    "static/css/main.5828d95d.chunk.css.map": "/react_food_order/static/css/main.5828d95d.chunk.css.map",
+    "static/js/2.b3134683.chunk.js.LICENSE.txt": "/react_food_order/static/js/2.b3134683.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/react_food_order/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0dc11324.js",
+    "static/js/runtime-main.5328e8f2.js",
     "static/js/2.b3134683.chunk.js",
     "static/css/main.5828d95d.chunk.css",
     "static/js/main.66ca1050.chunk.js"
