@@ -2,7 +2,12 @@
 
 Preview: https://hitesh-nagothu.github.io/react_food_order/
 
-This is on ongoing work. Plans to create a template application which would be ready to go and establish a food order service with minimal changes.
+
+React Hooks: useState, useReducer, useEffect
+React Context API's for application wide state sharing (on Exisiting Cart Items)
+BackEnd: Using Firebase to load the menu on component mount, and POST orders to firebase
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
