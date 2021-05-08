@@ -3,9 +3,9 @@
 Preview: https://hitesh-nagothu.github.io/react_food_order/
 
 
-React Hooks: useState, useReducer, useEffect
-React Context API's for application wide state sharing (on Exisiting Cart Items)
-BackEnd: Using Firebase to load the menu on component mount, and POST orders to firebase
+#React Hooks: useState, useReducer, useEffect
+#React Context API's for application wide state sharing (on Exisiting Cart Items)
+#BackEnd: Using Firebase to load the menu on component mount, and POST orders to firebase
 
 
 
